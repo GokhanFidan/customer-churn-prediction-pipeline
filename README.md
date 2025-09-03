@@ -1,5 +1,8 @@
 # Customer Churn Prediction: Multi-Domain ML Pipeline
 
+### 🌐 Try Live Demo First!
+**[➡️ INTERACTIVE DASHBOARD](https://customer-churn-prediction-pipeline-jo9eew5gfurijaejmgof3s.streamlit.app/)**
+
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28.0+-red.svg)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -100,6 +103,15 @@ data/ml_ready/     → Final clean datasets (leakage-free)
 - **Joblib** for model serialization
 
 ## 🚀 Quick Start
+
+### 🌐 Try Live Demo First!
+**[➡️ INTERACTIVE DASHBOARD](https://customer-churn-prediction-pipeline-jo9eew5gfurijaejmgof3s.streamlit.app/)**
+
+Experience the full pipeline without installation:
+- Navigate through 4 comprehensive analysis pages
+- Explore real model performance results
+- Interact with ROC curves, confusion matrices, and radar charts
+- See data leakage detection methodology in action
 
 ### 1. Installation
 ```bash
